@@ -1,4 +1,7 @@
 # Toycathon-2021-Sena
+
+This Project was made as a part of Toycathon 2021 and we were the grand finalists
+
 Basics of the project
 
 Developing a game where soldiers from a team enters and attacks the other team’s castle and captures at many pieces as possible. The player with the most captured pieces (soldiers, horses, elephants) wins the game. 
